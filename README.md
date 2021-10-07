@@ -1,5 +1,5 @@
-## Hi there 👋
-## ✨ Welcome to my profile and I am Datnlq, N.T. ✨
+## Hola 👋
+## ✨ Welcome to my profile and I am Datnlq. ✨
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,19 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me:
-#### - I am an undergraduate student at UIT.
+#### - 🤔 I am currently focusing on:
+* CTF: Write up some challenge Pwn, Web, ...
+* PortSwigger: U can find it in my [blog](https://datnlq.github.io/)
+* And something else bla bla bla
 
-#### - I am currently focusing on:
-* Front-end: Angular, Bootstrap, ...
-* Back-end: Java Servlet, ASP.NET 5 Core with MVC or EF
-* Platform: Google Cloud
-
-[![GiangNTSE150746's GitHub stats](https://github-readme-stats.vercel.app/api?username=giangntse150746&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![DatNLQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=datnlq&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### You can contact me via:
-#### <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="16" />  [Email](mailto:giangntse150746@fpt.edu.vn)
-#### <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="16" />  [Github](https://github.com/giangntse150746)
-#### <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="16" />  [Facebook](fb.com/MashiMar.2001)
+#### <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="16" />  [Facebook](fb.com/datnlq)
 ##
-##### ©2021 by GiangNTSE150746
+##### ©2021 by DATNLQ
+<!-- --!>
