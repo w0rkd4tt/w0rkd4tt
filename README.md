@@ -47,6 +47,22 @@ Offensive security engineer với nền tảng mạnh về pentesting, code audi
 
 
 ---
+```mermaid
+graph TD
+    A[📍 2021–2022<br/>🔍 CVE / Pwn / R0OtM3<br/><small>Privilege Esc, Reverse Eng, Exploit Dev</small>] --> 
+    B[📍 2022<br/>🕸️ vuln-nodejs-app / CraftCMS<br/><small>Web Exploits, CMS Testing</small>]
+    
+    B --> 
+    C[📍 2023<br/>🧪 oscp-note / Burp Extension<br/><small>OSCP Prep, Auto Report Generator</small>]
+
+    C --> 
+    D[📍 2024<br/>🛠️ Recon CLI Tool<br/><small>Scope Parser, Tagging, Subdomain Recon</small>]
+
+    D --> 
+    E[📍 2025<br/>🤖 ModSec ML / Sharingan<br/><small>ML + Automation in WAF + Vuln Parsing</small>]
+
+```
+---
 
 ## 🔧 Công cụ & Tech Stack
 
